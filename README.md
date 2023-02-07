@@ -4,11 +4,11 @@ This project was done for the NBS-BACxDeloitte Hackathon (2nd Place overall).
 
 Project Creators/Contributors:
 
-Vinay Krishnaa Vinod NTU BCG.  
-Ananya Balehithlu NTU BCG.  
-Max Tan Zheyuan NTU BCG.  
-Bai Shun Yao NTU BCG.  
-Tan Kit Hon Luke NTU BA.   
+**V**inay Krishnaa Vinod NTU BCG.  
+Bai **S**hun Yao NTU BCG.   
+Tan Kit Hon **L**uke NTU BA.   
+**A**nanya Balehithlu NTU BCG.  
+**M**ax Tan Zheyuan NTU BCG.  
 
 Objective: To identify fraudulent behaviours of employees and quantify the amount lost using rule based approaches.
 
